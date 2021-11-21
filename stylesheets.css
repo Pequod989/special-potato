@@ -1,0 +1,8 @@
+* {
+    background-color: lightslategrey;
+    border: 2px solid red;
+}
+
+.header {
+    text-align: center;
+}
